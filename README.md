@@ -7,6 +7,16 @@ A client has requested a summary statistics on weather (specifically temperature
 ## Methodology
 The weather was extracted from a SQLLite database using sqlalchemy. The database contained two tables (Measurment and Stations) which were identified after reflecting the database and tables using automap_base method within sqlalchemy. The measurment table was queried for all June temperature and transformed into a Pandas DataFrame. The Pandas describe method was used to generate summary statistics. A similar process was followed for December temperatues. 
 
+## Resources
+ 
+Data source:
+- (1) hawaii.sqlite
+ 
+Software:
+- SQLite, Python 3.7.6, Visual Studio Code 1.68.1
+ 
+<br/>
+
 ## Findings
 Stations general Information Data was collected from nine weather stations in the Oahu, HI. (Figure 1.1)
 
@@ -80,3 +90,11 @@ There is variability among the stations for the their avg. December temperature.
 ### Comparison June vs. December Temperatures
 - June temperatures are (on average) about 3 warmer than temperatures in December.
 - The range of temperatures for december is greater.
+
+## References
+ 
+[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+ 
+[Postgresql Database Connection](https://www.postgresql.org/docs/current/libpq-connect.html)
+ 
+[SQLAlchemy](https://www.sqlalchemy.org/)
