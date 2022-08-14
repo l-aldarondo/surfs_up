@@ -28,6 +28,8 @@ Stations general Information Data was collected from nine weather stations in th
 
 <sub> Figure 1.1
 
+### Results
+
 June summary statistics:
 
 - The average (mean) temperature for june in Oahu is 74.9 F.
@@ -87,10 +89,11 @@ There is variability among the stations for the their avg. December temperature.
 
 <br/>
 
+## Summary
 ### Comparison June vs. December Temperatures
 - June temperatures are (on average) about 3 degrees warmer than temperatures in December.
+- December temperatures are (on average) about 8 degrees colder than temperatures in June.
 - The range of temperatures for december is greater.
-- 
 
 <br/>
 
