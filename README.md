@@ -40,9 +40,9 @@ All the temperatures for the month of June and December converted to DataFrames 
 
 <br/>
 
-<sub>(1.2)![june_temps_hist](./Images/June_temp_hist.png)
+(1.2)![june_temps_hist](./Images/June_temp_hist.png)
 (1.3)![june_temps_boxplot](./Images/june_temp_boxplot.png)
-(1.4) ![june_statistics](.//Images/june_temp_summary_stats.png)</sub>
+(1.4) ![june_statistics](.//Images/june_temp_summary_stats.png)
 
 <sub> Figure 1.2 Histtogram of June Temperatures.
 
@@ -62,9 +62,9 @@ All the temperatures for the month of June and December converted to DataFrames 
 
 <br/>
 
-(1.4)![December_temps_hist](./Images/December_temp_hist.png)
-(1.5)![December_temps_boxplot](./Images/december_temp_boxplot.png)
-(1.6) ![december_statistics](./Images/december_temp_summary_stats.png)
+(a)![December_temps_hist](./Images/December_temp_hist.png)
+(b)![December_temps_boxplot](./Images/december_temp_boxplot.png)
+(c) ![december_statistics](./Images/december_temp_summary_stats.png)
 
 <sub> Figure 1.4 Histogram of December Temperatures.
 
