@@ -18,14 +18,14 @@ Software:
 <br/>
 
 ## Findings
-All the temperatures for the month of June and December converted to DataFrames as shown in Figure 1.1.
+All the temperatures for the month of June and December converted to DataFrames as shown in Figure (a).
 
 <br/>
 
 ![june_stations_general_data](./Images/june_temp_df.png)
 ![december_stations_general_data](./Images/december_temp_df.png)<br/>
 
-#### <sub> Figure 1.1 - DataFrames of all June and December temperatures.
+#### <sub> Figure (a) - DataFrames of all June and December temperatures.
 
 <br/>
 
@@ -40,15 +40,18 @@ All the temperatures for the month of June and December converted to DataFrames 
 
 <br/>
 
-(1.2)![june_temps_hist](./Images/June_temp_hist.png)
-(1.3)![june_temps_boxplot](./Images/june_temp_boxplot.png)
-(1.4) ![june_statistics](.//Images/june_temp_summary_stats.png)
+(b) ![june_statistics](.//Images/june_temp_summary_stats.png)
 
-<sub> Figure 1.2 Histtogram of June Temperatures.
+<sub> Figure (b) June Temperatures Summary Statistics.
 
-<sub> Figure 1.3 Boxplot of June Temperatures.
+<br/>
 
-<sub> Figure 1.4 June Temperatures Summary Statistics.
+(c)![june_temps_hist](./Images/June_temp_hist.png)
+(d)![june_temps_boxplot](./Images/june_temp_boxplot.png)
+
+<sub> Figure (c) Histtogram of June Temperatures.
+
+<sub> Figure (d) Boxplot of June Temperatures.
 
 <br/>
 
@@ -59,18 +62,22 @@ All the temperatures for the month of June and December converted to DataFrames 
     - The lowest temperature observed was (min) of **56.0°F**.
     - The range of june temperatures observed was **27°F (83°F - 56°F)**.
 
+<br/>
+
+(e) ![december_statistics](./Images/december_temp_summary_stats.png)
+
+<sub> Figure (e) December Temperatures Summary Statistics.
 
 <br/>
 
-(a)![December_temps_hist](./Images/December_temp_hist.png)
-(b)![December_temps_boxplot](./Images/december_temp_boxplot.png)
-(c) ![december_statistics](./Images/december_temp_summary_stats.png)
+(f)![December_temps_hist](./Images/December_temp_hist.png)
+(g)![December_temps_boxplot](./Images/december_temp_boxplot.png)
 
-<sub> Figure 1.4 Histogram of December Temperatures.
+<sub> Figure (e) Histogram of December Temperatures.
 
-<sub> Figure 1.5 Boxplot of December Temperatures.
+<sub> Figure (f) Boxplot of December Temperatures.
 
-<sub> Figure 1.6 December Temperatures Summary Statistics.
+<sub> Figure (g) December Temperatures Summary Statistics.
 
 <br/>
 
