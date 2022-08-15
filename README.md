@@ -91,11 +91,11 @@ Two additonal queries were performed for the months of June and December to esta
 
 - The most active station was **USC00519281** with:
     - A total of **2772** data points.
-    - An average temperature of **72°F**, a max_temp of **84°F**, and a min_temp of **54°F**.
+    - An average temperature of **71.7°F**, a max_temp of **84.0°F**, and a min_temp of **54.0°F**.
     
 - The least active station was **USC00518838** with:
     - A total of **511** data points.
-    - An average temperature of **73°F**, a max_temp of **83°F**, and a min_temp of **58°F**.
+    - An average temperature of **72.7°F**, a max_temp of **83.0°F**, and a min_temp of **58.0°F**.
 
 <br/>
 
