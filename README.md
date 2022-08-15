@@ -87,7 +87,7 @@ All the temperatures for the month of June and December converted to DataFrames 
 - December temperatures are (on average) about **8°F** colder than temperatures in June.
 - The range of temperatures for december is greater than June.
 
-Two additonal queries were performed to establish the most and least active stations and the average, maximum and minimum temperatures for those locations:
+Two additonal queries were performed for the months of June and December to establish the most and least active stations and the average, maximum and minimum temperatures for those locations:
 
 - The most active station was **USC00519281** with:
     - A total of **2772** data points.
