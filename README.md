@@ -50,7 +50,7 @@ All the temperatures for the month of June and December converted to DataFrames 
  
 <sub> Figure (b) June Temperatures Summary Statistics.
 
-<sub> Figure (c) Histtogram of June Temperatures.
+<sub> Figure (c) Histogram of June Temperatures.
 
 <sub> Figure (d) Boxplot of June Temperatures.
 
